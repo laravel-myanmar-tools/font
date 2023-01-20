@@ -77,3 +77,8 @@ $font->isNumber('12345'); // return true
 ```bash
 composer test
 ```
+
+## Credit
+
+-[ToUnicode (Laravel Easy Converter)](https://github.com/KyawNaingTun/tounicode)
+-[Rabbit-PHP](https://github.com/Rabbit-Converter/Rabbit-PHP)
