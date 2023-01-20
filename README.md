@@ -80,5 +80,5 @@ composer test
 
 ## Credit
 
--[ToUnicode (Laravel Easy Converter)](https://github.com/KyawNaingTun/tounicode)
--[Rabbit-PHP](https://github.com/Rabbit-Converter/Rabbit-PHP)
+- [ToUnicode (Laravel Easy Converter)](https://github.com/KyawNaingTun/tounicode)
+- [Rabbit-PHP](https://github.com/Rabbit-Converter/Rabbit-PHP)
